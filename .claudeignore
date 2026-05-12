@@ -1,0 +1,30 @@
+# 빌드 결과물 - 읽을 필요 없음
+node_modules/
+dist/
+build/
+.next/
+out/
+
+# 패키지 잠금 파일 - 크고 불필요
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# 환경변수 - 민감정보
+.env
+.env.local
+.env.*.local
+
+# 에셋 - 토큰 낭비
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.ico
+*.woff
+*.woff2
+
+# 캐시/로그
+.cache/
+*.log

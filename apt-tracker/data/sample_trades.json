@@ -1,0 +1,61 @@
+{
+  "apartments": [
+    {
+      "aptNm": "래미안대치팰리스",
+      "umdNm": "대치동",
+      "dealAmount": "410,000",
+      "excluUseAr": "94.51",
+      "floor": "15",
+      "dealYear": "2026",
+      "dealMonth": "3",
+      "dealDay": "5",
+      "buildYear": "2015"
+    },
+    {
+      "aptNm": "래미안대치팰리스",
+      "umdNm": "대치동",
+      "dealAmount": "395,000",
+      "excluUseAr": "94.51",
+      "floor": "7",
+      "dealYear": "2026",
+      "dealMonth": "3",
+      "dealDay": "12",
+      "buildYear": "2015"
+    },
+    {
+      "aptNm": "은마아파트",
+      "umdNm": "대치동",
+      "dealAmount": "285,000",
+      "excluUseAr": "76.79",
+      "floor": "10",
+      "dealYear": "2026",
+      "dealMonth": "3",
+      "dealDay": "18",
+      "buildYear": "1979"
+    },
+    {
+      "aptNm": "은마아파트",
+      "umdNm": "대치동",
+      "dealAmount": "271,000",
+      "excluUseAr": "76.79",
+      "floor": "3",
+      "dealYear": "2026",
+      "dealMonth": "2",
+      "dealDay": "22",
+      "buildYear": "1979"
+    }
+  ],
+  "officetels": [
+    {
+      "mobileAptNm": "대치 SK뷰",
+      "umdNm": "대치동",
+      "dealAmount": "55,000",
+      "excluUseAr": "30.21",
+      "floor": "8",
+      "dealYear": "2026",
+      "dealMonth": "3",
+      "dealDay": "8",
+      "buildYear": "2020"
+    }
+  ]
+}
